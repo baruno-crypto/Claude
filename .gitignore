@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# scan.py outputs and cache
+__pycache__/
+*.pyc
+packet.json
+.ff_calendar_cache.json
